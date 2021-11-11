@@ -20,6 +20,10 @@ Deciding that wouldn't do, I decided to go ahead and edit the cut-in sprites to 
 
 It was a long endeavor, and I'm not fully happy with the end results. But for what we have now, this will do.
 
+==HOW TO USE==
+
+Simply save the file you want and paste it into the dance's folder. For example, if you wanted (X2) Rage 2's edited cut-in, save the "Cut-In" folder and place it within (X2) Rage 2's character file.
+
 ==FINISHED CUT-INS==
 
 - (Ace) Alice Ryusei
